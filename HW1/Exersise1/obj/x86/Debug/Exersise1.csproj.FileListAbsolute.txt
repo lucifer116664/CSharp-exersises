@@ -1,0 +1,6 @@
+/home/lucifer/Projects/HW1/Exersise1/bin/Debug/Exersise1.exe
+/home/lucifer/Projects/HW1/Exersise1/bin/Debug/Exersise1.pdb
+/home/lucifer/Projects/HW1/Exersise1/obj/x86/Debug/Exersise1.csproj.CoreCompileInputs.cache
+/home/lucifer/Projects/HW1/Exersise1/obj/x86/Debug/Exersise1.exe
+/home/lucifer/Projects/HW1/Exersise1/obj/x86/Debug/Exersise1.pdb
+/home/lucifer/Projects/HW1/Exersise1/obj/x86/Debug/Exersise1.csprojAssemblyReference.cache

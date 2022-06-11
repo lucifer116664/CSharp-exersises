@@ -1,0 +1,5 @@
+/home/lucifer/Projects/HW1/Exersise3/bin/Debug/Exersise3.exe
+/home/lucifer/Projects/HW1/Exersise3/bin/Debug/Exersise3.pdb
+/home/lucifer/Projects/HW1/Exersise3/obj/x86/Debug/Exersise3.csproj.CoreCompileInputs.cache
+/home/lucifer/Projects/HW1/Exersise3/obj/x86/Debug/Exersise3.exe
+/home/lucifer/Projects/HW1/Exersise3/obj/x86/Debug/Exersise3.pdb
